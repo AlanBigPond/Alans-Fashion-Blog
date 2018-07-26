@@ -2,6 +2,8 @@
 
 The purpose of this blog is to entertain and inform about all the latest trends in male fashion!
 
+Alans-Fashion-Blog/1.jpg
+
 
 
 ### Markdown
