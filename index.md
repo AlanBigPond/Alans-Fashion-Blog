@@ -17,20 +17,5 @@ As I explore the fashion of these celebrities, i'll also give tips on how to mat
 
 Shirts are a perfect wear that can be switched for any occasion! In this weeks blog post, I explore the [shirt range from Gant UK](http://www.gant.co.uk/mens-shirts#more), and discuss the best shirts to wear for every occasion!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
