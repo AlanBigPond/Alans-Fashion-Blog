@@ -2,10 +2,9 @@
 
 The purpose of this blog is to entertain and inform about all the latest trends in male fashion!
 
-https://user-images.githubusercontent.com/41738279/43263784-2e07c5ee-90dc-11e8-9f2e-bf2769e0d77e.jpg
+### The top 5 dressed male celebrities of 2018
 
-
-### Markdown
+This week, I take a look at the top 5 male celerities seen in the media and magazines. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
