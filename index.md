@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Alan's Male Fashion Blog
 
-You can use the [editor on GitHub](https://github.com/AlanBigPond/Alans-Fashion-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this blog is to entertain and inform about all the latest trends in male fashion!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
