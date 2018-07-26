@@ -15,7 +15,7 @@ As I explore the fashion of these celebrities, i'll also give tips on how to mat
 
 ![image](https://static1.michael84.co.uk/wp-content/uploads/backtoschool-tommy-shirts-720x394.jpg)
 
-Shirts are a perfect wear that can be switched for any occasion! In this weeks blog post, I explore the [shirt range from Gant UK](http://www.gant.co.uk/mens-shirts#more), and discuss the best shirts to wear for every occasion!
+Shirts are a perfect wear that can be switched for any occasion! In this weeks blog post, I explore the [shirt range from Gant UK](http://www.gant.co.uk/mens-shirts), and discuss the best shirts to wear for every occasion!
 
 
 
